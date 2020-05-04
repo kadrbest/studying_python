@@ -1,1 +1,2 @@
 # studying_python
+куку
