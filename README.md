@@ -1,2 +1,5 @@
 # studying_python
-# м что тут
+
+1st change from ottosha
+
+chto za khuinya
